@@ -1,4 +1,4 @@
-// JavaScript personalizado para el sitio de acompañamiento del libro
+// JavaScript personalizado para el sitio de Ciencia, Tecnologia y Sociedad
 
 document.addEventListener('DOMContentLoaded', function() {
     // Smooth scrolling para enlaces internos
